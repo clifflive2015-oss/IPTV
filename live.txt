@@ -1,17 +1,18 @@
 公告-yuanzl77,#genre#
 央视频道,#genre#
-CCTV13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$LR—IPV4 【1920x1080 9Mbps】
+CCTV13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$LR—IPV4 【1920x1080 8Mbps】
 广东频道,#genre#
-广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487$LR—IPV4 【1280x720 2Mbps】
+广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488$LR—IPV4 【1280x720 3Mbps】
 卫视频道,#genre#
-湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8$LR—IPV4 【3840x2160 7Mbps】
-浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8$LR—IPV4 【1920x1080 23Mbps】
-东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8$LR—IPV4 【1920x1080 12kbps】
-东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$LR—IPV4 【1920x1080】
-吉林卫视,http://221.7.175.154:8445/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4 【1920x1080@256kbps 15Mbps】
-内蒙古卫视,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8$LR—IPV4 【1920x1080 9Mbps】
-新疆卫视,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd$LR—IPV4 【1920x1080 4kbps】
-延边卫视,https://srs.iyb983.cn:443/video/CYS/index.m3u8$LR—IPV4 【1920x1080】
+湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8$LR—IPV4 【3840x2160 8Mbps】
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$LR—IPV4 【1920x1080 6Mbps】
+东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8$LR—IPV4 【1920x1080 11kbps】
+东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$LR—IPV4 【1920x1080 1Mbps】
+江西卫视,http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4 【1920x1080 564kbps】
+吉林卫视,http://221.7.175.154:8445/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4 【1920x1080@256kbps 14Mbps】
+内蒙古卫视,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8$LR—IPV4 【1920x1080】
+安多卫视,https://liveout.xntv.tv/a65jur/96iln2.m3u8$LR—IPV4 【1920x1080】
+延边卫视,https://srs.iyb983.cn/video/CYS/index.m3u8$LR—IPV4 【1920x1080 16Mbps】
 港·澳·台,#genre#
 少儿频道,#genre#
 影视频道,#genre#
