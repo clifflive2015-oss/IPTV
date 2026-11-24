@@ -1,20 +1,16 @@
 公告-yuanzl77,#genre#
 央视频道,#genre#
-CCTV3,http://222.169.85.8:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4 【1920x1080 8Mbps】
-CCTV13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$LR—IPV4 【1920x1080 10Mbps】
+CCTV13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$LR—IPV4 【1920x1080 8Mbps】
 广东频道,#genre#
-广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487$LR—IPV4 【1280x720 3Mbps】
+广州综合,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8$LR—IPV4 【1280x720 2Mbps】
 卫视频道,#genre#
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8$LR—IPV4 【3840x2160 12Mbps】
-浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8$LR—IPV4 【1920x1080 9Mbps】
-东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8$LR—IPV4 【1920x1080 16kbps】
+浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8$LR—IPV4 【1920x1080 7Mbps】
+东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8$LR—IPV4 【1920x1080 11kbps】
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$LR—IPV4 【1920x1080 1Mbps】
-广东卫视,http://222.169.85.8:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4 【1920x1080 972kbps】
-甘肃卫视,http://218.13.170.98:9901/tsfile/live/0141_1.m3u8$LR—IPV4 【1920x1080 256kbps】
 吉林卫视,http://221.7.175.154:8445/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4 【1920x1080@256kbps 16Mbps】
-天津卫视,http://222.169.85.8:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0$LR—IPV4 【1920x1080】
-新疆卫视,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd$LR—IPV4 【1920x1080 4kbps】
 安多卫视,https://liveout.xntv.tv/a65jur/96iln2.m3u8$LR—IPV4 【1920x1080 1Mbps】
+延边卫视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#$LR—IPV4 【1920x1080 5Mbps】
 港·澳·台,#genre#
 少儿频道,#genre#
 影视频道,#genre#
